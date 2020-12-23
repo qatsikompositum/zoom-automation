@@ -13,3 +13,5 @@ Kaynak kodundan Zoom'un kurulu olduğu yeri kendi bilgisayarına göre değişti
 
 İlhan Akın Şerefoğlu
 Büyükşehir Hüseyin Yıldız Anadolu Lisesi
+
+Ekrandaki tek program main.py olmalı yoksa Zoom arkada kalıyor ve program çalışmıyor.
