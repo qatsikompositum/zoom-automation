@@ -1,4 +1,10 @@
-Alın kullanın, kaynak kodundan kendi zoom konumunuzu seçmeyi unutmayın. Sadece 1920x1080 çözünürlükte çalışır.
+# Kullanım kılavuzu
 
-İlhan Akın Şerefoğlu
-BHYAL
+```
+pip install pytime
+```
+```
+pip install pyautogui
+```
+
+
